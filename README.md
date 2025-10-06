@@ -59,7 +59,7 @@ VectorLiteAdmin is a comprehensive web-based vector database management platform
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vectorliteadmin.git
+   git clone https://github.com/hugohamelcom/vectorliteadmin.git
    cd vectorliteadmin
    ```
 
@@ -364,9 +364,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/vectorliteadmin/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/vectorliteadmin/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/vectorliteadmin/wiki)
+- **Issues**: [GitHub Issues](https://github.com/hugohamelcom/vectorliteadmin/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/hugohamelcom/vectorliteadmin/discussions)
+- **Documentation**: [Wiki](https://github.com/hugohamelcom/vectorliteadmin/wiki)
 
 ---
 
