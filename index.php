@@ -6,7 +6,7 @@
  * but specifically designed for vector databases using SQLite with embedding support.
  * 
  * @version 1.0.0
- * @author VectorLiteAdmin Team
+ * @author VectorLiteAdmin Team (Hugo Hamel: @hugohamelcom + AI)
  * @license GPL v3
  */
 
