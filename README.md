@@ -6,7 +6,7 @@
 
 VectorLiteAdmin is a comprehensive web-based vector database management platform inspired by phpMyAdmin but specifically designed for vector databases using SQLite. It provides an intuitive interface for managing vector databases, embedding content, performing similarity searches, and administering knowledge bases with support for multiple embedding models and APIs.
 
-![VectorLiteAdmin Screenshot](https://via.placeholder.com/800x400/007cba/ffffff?text=VectorLiteAdmin+Interface)
+![VectorLiteAdmin Screenshot](https://github.com/hugohamelcom/vectorliteadmin/blob/1b1cc2e12bbece45a66e1d78cb3ff94d401c22c0/vectorliteadmin-database-screenshot.png)
 
 ## ✨ Features
 
